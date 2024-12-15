@@ -1,7 +1,7 @@
-# Rodrigo_Mesquita_DR3_TP4
+# Rodrigo_Mesquita_DR3_TP3
 ## Desenvolvimento de Data-Driven Apps com Python [24E4_3]
-### Link Github: https://github.com/rodrigo1992-cmyk/DR3_TP4
-### Link Streamlit App: 
+### Link Github: https://github.com/rodrigo1992-cmyk/DR3_TP3
+### Link Streamlit App: https://rodrigo1992-cmyk-dr3-tp3-appservicesstreamlit-app-wqqlxo.streamlit.app/
 
 ### **Assistente de Busca por Informações sobre a Industria Musical**
 **Objetivo**: Recuperar informações a respeito de cantores, bandas e músicas, incluindo informações gerais, notícias recentes e próximos eventos.
