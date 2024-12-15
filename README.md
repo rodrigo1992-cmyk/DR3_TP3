@@ -17,26 +17,26 @@
 ### **Casos de Uso Utilizados para Teste e os Resultados Obtidos**:
 **1.Perguntar a história de vida de Chester Bennington.**
 
-<img src="app\docs\img1.png" alt="Resposta do Modelo" width="550" height="220">
+<img src="app\docs\img1.png" alt="Resposta do Modelo" width="600" height="220">
 
 **2.Perguntar em que ano nasceu a Beyoncé.**
 
-<img src="app\docs\img2.png" alt="Resposta do Modelo" width="550" height="120">
+<img src="app\docs\img2.png" alt="Resposta do Modelo" width="600" height="120">
 
 **3.Perguntar quando e onde será o próximo show do AC/DC no Brasil.**
 
-<img src="app\docs\img3.png" alt="Resposta do Modelo" width="550" height="180">
+<img src="app\docs\img3.png" alt="Resposta do Modelo" width="600" height="180">
 
 **4.Voltar a perguntar a idade da Beyonce e conferir se o modelo irá resgatar do histórico, conforme orientado (para acelerar o tempo de resposta e não consumir chamadas à API), ou buscar na internet.**
 
-<img src="app\docs\img4.png" alt="Resposta do Modelo" width="550" height="120">
+<img src="app\docs\img4.png" alt="Resposta do Modelo" width="600" height="120">
 
-<img src="app\docs\img4_1.png" alt="Resposta do Modelo" width="550" height="140">
+<img src="app\docs\img4_1.png" alt="Resposta do Modelo" width="600" height="140">
 
 
 **5,Realizar uma Pergunta sobre um time de futebol, para avaliar como o modelo irá se comportar.**
 
-<img src="app\docs\img5.png" alt="Resposta do Modelo" width="550" height="120">
+<img src="app\docs\img5.png" alt="Resposta do Modelo" width="600" height="120">
 
 ### Observações
 - Foi realizada a customização do prompt "hwchase17/react", para que ele também analise se o input do usuário está dentro do tópico definido, e para que ele consulte o histórico de mensagens antes de invocar uma das ferramentas externas. 
