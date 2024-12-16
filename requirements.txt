@@ -1,13 +1,11 @@
-# platform: win-64
-langchain = "*"
-openai = "*"
-python-dotenv = "*"
-langchain-community = "*"
-google-generativeai = "*"
-langchain-google-genai = "*"
-langchain-google-community = "*"
-wikipedia = "*"
-duckduckgo-search = "*"
-streamlit = "*"
-ipykernel = "*"
-python_version = "3.12"
+langchain==*
+openai==*
+python-dotenv==*
+langchain-community==*
+google-generativeai==*
+langchain-google-genai==*
+langchain-google-community==*
+wikipedia==*
+duckduckgo-search==*
+streamlit==*
+ipykernel==*
