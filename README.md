@@ -14,6 +14,10 @@
 - Realizar busca no Wikipedia por informações gerais, histórico do artista, prêmios e records conquistados.
 - Realizar busca no DuckDuckGo por agendas de shows e notícias recentes.
 
+### **Instruções para Execução do Aplicativo**
+- Opção 1: Utilizar o link do aplicativo implementado em Cloud, disponibilizado no cabeçalho.
+- Opção 2: Instalar as bibliotecas declaradas no arquivo requirements.txt e executar o arquivo app/services/streamlit_app.py.
+
 ### **Casos de Uso Utilizados para Teste e os Resultados Obtidos**:
 **1.Perguntar a história de vida de Chester Bennington.**
 
